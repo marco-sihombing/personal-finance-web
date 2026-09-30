@@ -570,7 +570,7 @@ MIT License — bebas digunakan dan dimodifikasi sesuai ketentuan lisensi.
 
 ## 🔗 Related
 
-* [Backend API Repository]([https://link-backend-repo/](https://github.com/marco-sihombing/personal-finance-api/)) — ASP.NET Core Web API
+* [Backend API Repository](https://github.com/marco-sihombing/personal-finance-api) — ASP.NET Core Web API
 * [Next.js Documentation](https://nextjs.org/docs)
 * [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 * [ASP.NET Core Documentation](https://learn.microsoft.com/aspnet/core/)
